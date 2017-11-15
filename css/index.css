@@ -1,0 +1,7 @@
+#intro-slide {
+    background-image: url(../img/grumpy-3.jpg);
+    background-size: cover;
+}
+.carousel-inner div {
+    height: 800px;
+}
